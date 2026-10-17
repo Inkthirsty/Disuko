@@ -1,0 +1,9 @@
+[
+  {
+    "id": "flag",
+    "name": "White Flag",
+    "description": "this is a scrapped feature but im keeping this incase i make it a thing",
+    "icon": "<:whiteflag:1255268435609387089>",
+	"type": "border"
+  }
+]

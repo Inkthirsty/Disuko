@@ -1,0 +1,10 @@
+.env
+assets/cookies.txt
+assets/robloxkeys.txt
+assets/proxies.txt
+assets/apifykeys.json
+assets/*.exe
+data.db
+__pycache__/
+*.pyc
+TEMP/
